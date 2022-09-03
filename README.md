@@ -2,7 +2,7 @@
 
 ![ewok](https://i.imgur.com/wMnJk59.jpg)
 
-Either way, hes a menace.
+Either way, he's a menace.
 
 <!--
 **VirtualCucumber/VirtualCucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
