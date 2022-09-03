@@ -1,6 +1,6 @@
-### Hi there 👋
+### Dog or Ewok?
 
-![This is an image](https://i.imgur.com/wMnJk59.jpg)
+![ewok](https://i.imgur.com/wMnJk59.jpg)
 
 <!--
 **VirtualCucumber/VirtualCucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
